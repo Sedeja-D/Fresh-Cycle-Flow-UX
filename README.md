@@ -1,6 +1,6 @@
 # Fresh Cycle Flow — UX & Requirements Prototype
 
-This project is a UI/UX prototype for a Laundry Assistance Robot system created as part of a user-centered design deliverable (D1). The goal is to design an intuitive interface that helps users complete laundry-related tasks efficiently (setup, status tracking, assistance, and alerts).
+This project is a UI/UX prototype for a Laundry Assistance Robot system created as part of a user-centered design deliverable. The goal is to design an intuitive interface that helps users complete laundry-related tasks efficiently (setup, status tracking, assistance, and alerts).
 
 ## Key Features
 - Start a laundry task and select cycle preferences
@@ -17,7 +17,7 @@ This project is a UI/UX prototype for a Laundry Assistance Robot system created 
 [View Marvel Prototype](https://marvelapp.com/prototype/11g5ibje)
 
 ## Screenshots
-![Main Features](Main-Features.png)
+![Main Features](Main Features .png)
 
 ## Author
 Se’Deja Drigo
