@@ -1,35 +1,23 @@
 # Fresh Cycle Flow — UX & Requirements Prototype
 
-This project focuses on user-centered design and system requirements development for a fictional fitness studio application. The goal was to design an intuitive platform that improves the member experience and supports business operations.
+This project is a UI/UX prototype for a Laundry Assistance Robot system created as part of a user-centered design deliverable (D1). The goal is to design an intuitive interface that helps users complete laundry-related tasks efficiently (setup, status tracking, assistance, and alerts).
 
-## Project Scope
-
-The application allows users to:
-
-- Browse classes and schedules
-- Book workout sessions
-- Manage memberships
-- Track attendance and activity
-- Receive notifications and updates
-
-## My Contributions
-
-- Developed user personas and scenarios
-- Created user flows and interaction diagrams
-- Designed interface prototypes using Marvel
-- Produced requirements documentation
+## Key Features
+- Start a laundry task and select cycle preferences
+- View task progress and estimated completion time
+- Receive notifications and alerts (ex: cycle complete, assistance needed)
+- Access help/support and troubleshooting prompts
+- Manage basic settings and user preferences
 
 ## Tools Used
+- Marvel App (interactive prototype)
+- UI/UX and User-Centered Design principles
 
-- Marvel App
-- Figma
-- User-Centered Design Principles
-- Requirements Analysis
+## Interactive Prototype
+[View Marvel Prototype](https://marvelapp.com/prototype/11g5ibje)
 
-## Prototype
-
-https://marvelapp.com/prototype/11g5ibje
+## Screenshots
+![Main Features](Main%20Features.png)
 
 ## Author
-
 Se’Deja Drigo
