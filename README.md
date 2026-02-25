@@ -17,7 +17,7 @@ This project is a UI/UX prototype for a Laundry Assistance Robot system created 
 [View Marvel Prototype](https://marvelapp.com/prototype/11g5ibje)
 
 ## Screenshots
-Main Features .png
+<img src="Main Features .png" width="600"/>
 
 ## Author
 Se’Deja Drigo
